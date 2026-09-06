@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/harkiratcoder/LeetCode-Solutions-/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/harkiratcoder/LeetCode-Solutions-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harkiratcoder/LeetCode-Solutions-/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harkiratcoder/LeetCode-Solutions-/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harkiratcoder/LeetCode-Solutions-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harkiratcoder/LeetCode-Solutions-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harkiratcoder/LeetCode-Solutions-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
